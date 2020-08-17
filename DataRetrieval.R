@@ -3,8 +3,7 @@ library(ggplot2)
 library(ggthemes)
 library(tidyverse)
 library(DataExplorer)
-library(anomalize)
-library(outliers)
+
 
 setwd("~/GradSchool/DiscoverFramework")
 wname <- getwd() # set back to working directory
